@@ -1,0 +1,58 @@
+p,
+h1,
+h2,
+h3,
+h4,
+td,
+th,
+button {
+  font-family: "Poppins", sans-serif;
+}
+
+#root,
+body {
+  margin: 0px;
+}
+
+.navtitle {
+  margin: unset;
+}
+
+.App {
+  margin: 20px;
+  padding: 10px;
+}
+
+.nav {
+  background-color: #0c2754;
+  color: #dddddd;
+  height: 50px;
+}
+
+/* Mobile friendly */
+.scrollable {
+  overflow-y: auto;
+}
+
+button {
+  border-radius: 5px;
+  background-color: #3d73d1;
+  border-style: none;
+  color: white;
+}
+
+button:hover {
+  background-color: #2b5296;
+}
+
+table {
+  /* font-family: arial, sans-serif; */
+  border-collapse: collapse;
+  width: 100%;
+}
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}

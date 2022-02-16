@@ -1,12 +1,15 @@
-# Getting Started with Create React App
+# Run instructions
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The webapp is running on React with typescript template.
+please make sure you have NODEJS installed on your PC.
 
-## Available Scripts
+cd into directory
 
-In the project directory, you can run:
+## `npm install`
 
-### `npm start`
+then
+
+## `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,33 +17,18 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
+### console outputs
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+there is a visual user interface and as required console outputs are available.
 
-### `npm run build`
+### Back-end
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+the backend is using my personal Notion integration as Database where i can dynamically make changes if needs to. Notion is deployed on the web on Vercel platform built with NodeJS express.
+More information can be found on my portfolio:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<img src="https://qlm9lq.am.files.1drv.com/y4mMZF108WgR2V7R_AjYzFpJaOyHbTLhUgvmnfXvMadaOqH-H17pHntd9BCOLY-wWlXIv94YozVnl3TcFxKySwfe2U19X9vK_VjQRQR037Cwz3lMofc_hhDWTGPfpV0TdjoNP8uhmpydt6wKhDA_Fl5QSDriuX-8FJz5Tci2nHfm3TBsP9RLqEWAXfQojxUy7-xCJygBCMOw2NRf_wnGfmPN9qockhGWMcu4LBjKpAFmqg/meds.png?psid=1" alt="1" />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img src="https://dpuviw.am.files.1drv.com/y4m0J7MjxJ_wlhI9siwVivShqoSf1B8u-sZuOZ4zNVkypYlWT--jfKZY6G5MQgeOl3r90RR7lN4y3yYOj39-2mWWVN5ohdvY7xv4Px1-VTRcMDH3xj6ll2G1SDGAaJXH4_Mcg51bqz3DFI78LyprucjWPf3piv2F8VMXNkgZ55mf1K9nx9KU17y8rFqUjU6eshmRABZoqzWyleNXQUnIwxWePwJFbGIlrukMTVaeXa9ttM/stock.png?psid=1" alt="2" />
+     
+Open [Portfolio](https://shiraz-portfolio.netlify.app/work/Notion%20API) for screenshot & more.
+Open [Github](https://github.com/shirazino/notion-api) Notion github for code.
